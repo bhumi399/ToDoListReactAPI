@@ -1,0 +1,6 @@
+@ToDoListReactAPI_HostAddress = http://localhost:5058
+
+GET {{ToDoListReactAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
